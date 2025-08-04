@@ -122,7 +122,7 @@ export default function Login() {
             <FiCheckSquare className="w-8 h-8 text-white" />
           </motion.div>
           <h2 className={`text-3xl font-bold ${darkMode ? 'text-white' : 'text-gray-900'}`}>
-            Welcome to TaskHive
+            Welcome to Asim Task
           </h2>
           <p className={`mt-2 text-sm ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
             Sign in to manage your tasks efficiently

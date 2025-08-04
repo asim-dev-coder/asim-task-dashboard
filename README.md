@@ -1,8 +1,8 @@
-# 🚀 TaskHive - Modern Task Management Dashboard
+# 🚀 Asim Task - Modern Task Management Dashboard
 
 A comprehensive, production-ready task management application built with React, TypeScript, and modern web technologies.
 
-![TaskHive Dashboard](https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=600&fit=crop)
+![Asim Task Dashboard](https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=600&fit=crop)
 
 ## ✨ Features
 
@@ -109,7 +109,7 @@ A comprehensive, production-ready task management application built with React, 
 ## 📁 Project Structure
 
 ```
-TaskHive/
+AsimTask/
 ├── 📁 client/                          # Frontend React application
 │   ├── 📁 components/                  # Reusable UI components
 │   │   ├── 📁 ui/                      # Base shadcn components
@@ -121,7 +121,7 @@ TaskHive/
 │   │   ├── Login.tsx                  # Authentication page
 │   │   ├── Dashboard.tsx              # Main dashboard
 │   │   ├── Tasks.tsx                  # Task management page
-│   │   ���── TaskDetail.tsx             # Individual task details
+│   │   ├── TaskDetail.tsx             # Individual task details
 │   │   ├── Calendar.tsx               # Calendar view
 │   │   ├── Analytics.tsx              # Analytics dashboard
 │   │   ├── Settings.tsx               # Settings and preferences
@@ -148,7 +148,7 @@ TaskHive/
 
 2. **Navigate to the project folder**
    ```bash
-   cd TaskHive
+   cd AsimTask
    ```
 
 3. **Install dependencies**
@@ -164,7 +164,7 @@ TaskHive/
 5. **Open your browser** and go to `http://localhost:8080`
 
 ### Demo Login
-- **Email**: Any valid email format (e.g., `demo@taskhive.com`)
+- **Email**: Any valid email format (e.g., `demo@asimtask.com`)
 - **Password**: Any password with 6+ characters (e.g., `password123`)
 
 ## 🎯 Available Scripts
@@ -312,4 +312,4 @@ For questions about this demo application:
 
 **Built with ❤️ using modern web technologies**
 
-🚀 **TaskHive** - Efficient task management for modern teams
+🚀 **Asim Task** - Efficient task management for modern teams

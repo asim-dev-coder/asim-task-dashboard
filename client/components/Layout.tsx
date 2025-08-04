@@ -64,7 +64,7 @@ const Sidebar = () => {
                   <FiCheckSquare className="w-5 h-5 text-white" />
                 </div>
                 <span className={`font-bold text-lg ${darkMode ? 'text-white' : 'text-gray-900'}`}>
-                  TaskHive
+                  Asim Task
                 </span>
               </div>
               <button

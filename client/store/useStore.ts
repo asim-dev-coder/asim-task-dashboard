@@ -158,7 +158,7 @@ export const useStore = create<AppState>()(
       users: dummyUsers,
     }),
     {
-      name: 'taskhive-store',
+      name: 'asimtask-store',
       partialize: (state) => ({
         isAuthenticated: state.isAuthenticated,
         currentUser: state.currentUser,

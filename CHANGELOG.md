@@ -1,4 +1,4 @@
-# TaskHive Changelog
+# Asim Task Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -187,7 +187,7 @@ All notable changes to this project will be documented in this file.
 - **Testing**: Vitest 3.1.4
 - **Package Manager**: npm with Node.js 18+
 
-#### ���� Dependencies
+#### 📦 Dependencies
 - **Production**:
   - react: ^18.3.1
   - react-dom: ^18.3.1
@@ -244,4 +244,4 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-**Note**: This is version 1.0.0 of TaskHive, a demonstration project showcasing modern React development practices and comprehensive task management functionality.
+**Note**: This is version 1.0.0 of Asim Task, a demonstration project showcasing modern React development practices and comprehensive task management functionality.
